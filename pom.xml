@@ -22,7 +22,7 @@
 		<hr-kernel.version>1.2.2</hr-kernel.version>
 
 		<!-- ReastEasy web services -->
-		<resteasy.version>3.0.0.Final</resteasy.version>
+		<resteasy.version>3.0.11.Final</resteasy.version>
 
 		<!-- 3rd party dependencies -->
 		<spring.version>4.0.6.RELEASE</spring.version>
